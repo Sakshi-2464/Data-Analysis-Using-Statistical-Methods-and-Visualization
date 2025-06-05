@@ -1,5 +1,4 @@
-
-This project explores two datasets containing mental health scores, lifestyle habits, music preferences, and demographic information. The goal is to understand the relationships between mental health variables and lifestyle choices using:
+The project explores two datasets containing mental health scores, habits, music preferences, and demographic information. The goal is to understand the relationships between mental health variables and lifestyle choices using:
 
 - **Statistical Hypothesis Testing:** Independent t-tests, Pearson correlation  
 - **Regression Models:** Simple Linear Regression, Logistic Regression  
