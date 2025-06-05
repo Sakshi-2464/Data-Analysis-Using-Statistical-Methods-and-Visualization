@@ -1,6 +1,4 @@
-# Mental Health Data Analysis
 
-## Overview  
 This project explores two datasets containing mental health scores, lifestyle habits, music preferences, and demographic information. The goal is to understand the relationships between mental health variables and lifestyle choices using:
 
 - **Statistical Hypothesis Testing:** Independent t-tests, Pearson correlation  
@@ -24,7 +22,6 @@ This project explores two datasets containing mental health scores, lifestyle ha
 - Measure strength and direction of linear relationships between continuous variables using Pearson’s r.  
 - Interpret positive, negative, or no correlation between variables such as Exercise Hours and Sleep Hours.  
 - Visualize with correlation heatmaps and scatterplots.
-
 
 ### Check the Data Insights(PowerBI)
 
