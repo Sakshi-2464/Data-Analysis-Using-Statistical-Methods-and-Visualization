@@ -23,6 +23,11 @@ This project explores two datasets containing mental health scores, lifestyle ha
 - Interpret positive, negative, or no correlation between variables such as Exercise Hours and Sleep Hours.  
 - Visualize with correlation heatmaps and scatterplots.
 
+### Basic Regression, Classification & Clustering  
+- Simple linear and logistic regression models demonstrating relationships and predictions.  
+- Introductory Naive Bayes classification and K-means/K-medoids clustering to group data points.  
+- Minimal plots to illustrate model results
+
 ### Check the Data Insights(PowerBI)
 
 [Mental_Health_Analysis.pdf](https://github.com/user-attachments/files/19429333/Mental_Health_Analysis.pdf)
