@@ -12,7 +12,7 @@ This project explores two datasets containing mental health scores, lifestyle ha
 
 ## Datasets  
 - `mental_health_analysis.csv`: Demographics, mental health scores, academic performance  
-- `msmh_survey_results.csv`: Music habits, anxiety, depression, insomnia, OCD  
+- `mxmh_survey_results.csv`: Music habits, anxiety, depression, insomnia, OCD  
 
 ### Hypothesis Testing & t-Tests  
 - Compare means between groups using independent t-tests (e.g., Anxiety by Gender, OCD by Academic Performance).  
@@ -26,6 +26,6 @@ This project explores two datasets containing mental health scores, lifestyle ha
 - Visualize with correlation heatmaps and scatterplots.
 
 
-## Check the Data Insights
+### Check the Data Insights(PowerBI)
 
 [Mental_Health_Analysis.pdf](https://github.com/user-attachments/files/19429333/Mental_Health_Analysis.pdf)
