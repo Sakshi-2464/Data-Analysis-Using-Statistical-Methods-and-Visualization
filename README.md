@@ -30,3 +30,53 @@ The project explores two datasets containing mental health scores, habits, music
 ### Check the Data Insights(PowerBI)
 
 [Mental_Health_Analysis.pdf](https://github.com/user-attachments/files/19429333/Mental_Health_Analysis.pdf)
+
+## Visualizations & Insights
+
+- **Average Anxiety and Depression by Favorite Music Genre**  
+  Shows how anxiety and depression levels vary by music preference. Genres like *Lofi* and *Hip hop* correlate with higher averages.
+
+- **Sum of Mental Health Conditions**  
+  Stacked bar chart comparing total cases of anxiety, OCD, insomnia, and depression across the dataset.
+
+- **Average Exercise Hours by Stress Level and Support System**  
+  Analyzes how physical activity varies with stress and emotional support levels. More support correlates with steadier exercise habits.
+
+- **Social Media Usage by Gender and Support System**  
+  Highlights total social media usage hours by gender and support system level. Useful for understanding digital behavior patterns.
+
+- **Count of Users by Age**  
+  Bar chart showing the age distribution of survey participants (13–18 years old).
+
+- **Count of Users by Gender**  
+  Compares total male and female participants.
+
+- **Gender Count by Stress Score and Academic Performance**  
+  Breaks down stress levels across academic performance groups, segmented by gender.
+
+- **Age Distribution by Gender**  
+  Explores how male and female respondents are distributed across different ages.
+
+- **Count of Composers by Favorite Genre**  
+  Reveals how musical genre preference varies among respondents who compose music.
+
+- **Count of Instrumentalists by Favorite Genre**  
+  Similar to the above, focused on users who play instruments.
+
+- **Academic Performance Breakdown by Gender**  
+  Displays average academic scores for each gender across performance levels.
+
+- **Support System vs. Academic Performance**  
+  Cross-tabulation of support levels and academic outcomes to examine their relationship.
+
+- **Mental Health Averages by Genre**  
+  Table showing average scores of anxiety, depression, OCD, and insomnia per music genre.
+
+- **Survey Stress Score by Support System**  
+  Shows how support level affects reported stress (1–5 scale).
+
+- **Count of Users by Academic Performance**  
+  Displays total users by academic category.
+
+- **Users by Support System and Stress Level**  
+  Grouped bar chart showing how stress levels are distributed across support system levels.
